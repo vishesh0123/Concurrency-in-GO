@@ -1,0 +1,1 @@
+Concurrency: A High-Level Overview, talks about what concurrency is and what it isn’t – in particular, how it relates to parallelism. Shared memory and message-passing paradigms, and common concurrency concepts such as race, atomicity, liveness, and deadlock are also introduced in this chapter.
